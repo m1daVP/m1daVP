@@ -28,7 +28,7 @@ I’ve built and shipped:
 
 **Frontend**
 
-Vue · Nuxt · TypeScript · JavaScript · SCSS
+Vue · Nuxt · React · TypeScript · JavaScript · SCSS
 
 **Backend**
 
@@ -40,7 +40,7 @@ MongoDB · PostgreSQL · MySQL
 
 **Infrastructure**
 
-AWS (ECS, ECR, EC2, S3, CloudFront)  
+AWS (ECS, ECR, EC2, S3, CloudFront, Lambda, RDS, SQS)  
 Cloudflare
 
 **Other**
